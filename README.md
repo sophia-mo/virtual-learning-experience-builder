@@ -95,22 +95,8 @@ This project is initially focused on developing a proof of concept. Our objectiv
 
 
 ### Team Members
-|Product Owner|Scrum Master|Subteam Leader|
-|:-------:|:-------:|:-------:|
-|<img src="docs/imgs/README/Tianyi Zhong.jpg" width="240" />|<img src="docs/imgs/README/Keang Lyu.jpg" width="240" />|<img src="docs/imgs/README/Shanqing Huang.jpg" width="240" />|
-|Tianyi Zhong<br>*zhong17@student.unimelb.edu.au*|Keang Lyu<br>*KEANGL@student.unimelb.edu.au*|Shanqing Huang<br>*shanqingh@student.unimelb.edu.au*|
-|**Subteam Leader**|**QA Lead**|**QA Lead**|
-|<img src="docs/imgs/README/Yinuo Li.jpg" width="240" />|<img src="docs/imgs/README/Mo Chen.jpg" width="240" />|<img src="docs/imgs/README/Hengjia Cao.jpg" width="240" />|
-|Yinuo Li<br>*yinuol5@student.unimelb.edu.au*|Mo Chen<br>*mcc3@student.unimelb.edu.au*|Henagjia Cao<br>*hengjiac@student.unimelb.edu.au*|
-|**Scrum Master (Trello)**|**Member**|**Member**|
-|<img src="docs/imgs/README/Mingyang Lai.jpg" width="240" />|<img src="docs/imgs/README/Zhuyun Lu.jpg" width="240" />|<img src="docs/imgs/README/Wenquan Wan.jpg" width="240" />|
-|Mingyang Lai<br>*mllai1@student.unimelb.edu.au*|Zhuyun Lu<br>*zhuyunl1@student.unimelb.edu.au*|Wenquan Wan<br>*wenquanw@student.unimelb.edu.au*|
 
 ### Other Stakeholders
-|Project Mentor|Client|
-|:-------:|:-------:|
-|<img src="docs/imgs/README/Sable Wang.jpg" width="240" />|<img src="docs/imgs/README/Shannon Rios.jpg" width="240" />|
-|Sable Wang<br>*sable.w@unimelb.edu.au*|Shannon Rios<br>*shannon.rios@unimelb.edu.au*|
 
 ### Prototype Illustration
 #### [Low Fidelity Prototype](https://github.com/SWEN90009-2024/VL-RedBack/blob/main/prototypes/low%20fidelity/Low%20Fidelity%20Prototype.pptx)
