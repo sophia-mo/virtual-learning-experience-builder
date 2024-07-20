@@ -1,0 +1,7 @@
+newmtl Buildin-Type-1-00-Color
+map_Pm C:/Users/Creeper Lv/source/Unity-3D-Repos/Knights-of-Favonius-MUST/Knight-of-Favonius-Modelling/Assets/KoFMUST/Models/MacauCity/Buildin-Type-1-00-Metalness.png
+bump C:/Users/Creeper Lv/source/Unity-3D-Repos/Knights-of-Favonius-MUST/Knight-of-Favonius-Modelling/Assets/KoFMUST/Models/MacauCity/Buildin-Type-1-00-Normal.png
+map_Kd C:/Users/Creeper Lv/source/Unity-3D-Repos/Knights-of-Favonius-MUST/Knight-of-Favonius-Modelling/Assets/KoFMUST/Models/MacauCity/Buildin-Type-1-00-Color.png
+Kd 1 1 1
+d 1
+
