@@ -2,7 +2,7 @@
 
 ## Project Overview
 ### Project Goal
-Our project aims to create a tool(lms plugin) or website-based platform that enables Engineering and IT academics with minimal training or experience to rapidly develop virtual or augmented learning experiences for educational use. This platform must be user-friendly, allowing educators to easily incorporate a variety of learning activities, such as information overlays, short quizzes, interactable items, and navigation within a 3D environment.
+Our project aims to create a tool (LMS plugin) or website-based platform that enables Engineering and IT academics with minimal training or experience to rapidly develop virtual or augmented learning experiences for educational use. This platform must be user-friendly, allowing educators to easily incorporate a variety of learning activities, such as information overlays, short quizzes, interactable items, and navigation within a 3D environment.
 
 ### Core Functionality
 - Enable users to construct basic 3D environments using either primitive elements (akin to Lego) or through 3D scanned data and photogrammetry.
